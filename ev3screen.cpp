@@ -43,6 +43,7 @@
   \author Broija
   \date 2013-11-22
   \brief Screen class for the Lego Mindstorms EV3. Based on Qt qlinuxfbscreen.cpp.
+  \attention This file is provided 'as is' with no warranty of any kind. I can't be held responsible for any damage caused to your computer system, Lego Mindstorms EV3 or anything else.
   */
 
 #include "ev3screen.h"

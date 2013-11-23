@@ -43,6 +43,7 @@
   \author Broija
   \date 2013-11-22
   \brief Integration class for the Lego Mindstorms EV3. Based on Qt qlinuxfbintegration.h.
+  \attention This file is provided 'as is' with no warranty of any kind. I can't be held responsible for any damage caused to your computer system, Lego Mindstorms EV3 or anything else.
   */
 
 #ifndef EV3INTEGRATION_H
