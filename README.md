@@ -16,10 +16,10 @@ http://broija.blogspot.fr/2013/11/compile-qt-5-qtbase-for-lego-mindstorms.html
     cp -r ev3linuxfb qt-everywhere-opensource-src-5.1.1/qtbase/src/plugins/platforms/
 
  - Go to this directory and run the qmake you built for the EV3. For example:
-
+```
     cd qt-everywhere-opensource-src-5.1.1/qtbase/src/plugins/platforms/
     qmake.ev3
-
+```
  - Build:
   
     make
