@@ -11,7 +11,7 @@ http://broija.blogspot.fr/2013/11/compile-qt-5-qtbase-for-lego-mindstorms.html
 
     git clone https://github.com/broija/ev3linuxfb
 
- - Copy ev3linuxfb directory to your qt source package directory and go to it. For example:
+ - Copy ev3linuxfb directory to your qt source package directory. For example:
 
     cp -r ev3linuxfb qt-everywhere-opensource-src-5.1.1/qtbase/src/plugins/platforms/
 
